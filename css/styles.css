@@ -48,3 +48,42 @@ section {
 footer {
     grid-column: span 5;
 }
+
+h1 {
+    font-size: 36px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+.frame {
+    border: 6px solid #111111;
+}
+
+.bg-red {
+    background: #d40920
+    color: #FFFFFF;
+}
+
+.bg-yellow {
+    background: #f7d842;
+    color: #111111;
+}
+.bg-white {
+    background: #FFFFFF;
+    color: #111111;
+}
+
+.pad {
+    padding: 16px;
+}
