@@ -71,7 +71,12 @@ p {
 }
 
 .bg-red {
-    background: #d40920
+    background: #d40920;
+    color: #FFFFFF;
+}
+
+.bg-blue {
+    background: #1456a2;
     color: #FFFFFF;
 }
 
