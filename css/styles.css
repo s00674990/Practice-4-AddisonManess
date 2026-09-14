@@ -16,4 +16,5 @@ body {
 
 nav {
     border: solid black 1px;
+    grid-column: span 5;
 }
